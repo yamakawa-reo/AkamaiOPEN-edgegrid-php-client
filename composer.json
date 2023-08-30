@@ -4,7 +4,7 @@
     "keywords": ["akamai", "open", "edgegrid", "authentication", "client"],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/akamai-open/AkamaiOPEN-edgegrid-php",
+    "homepage": "https://github.com/yamakawa-reo/AkamaiOPEN-edgegrid-php-client",
     "authors": [
         {
             "name": "Reo Yamakawa",
