@@ -7,8 +7,8 @@
     "homepage": "https://github.com/akamai-open/AkamaiOPEN-edgegrid-php",
     "authors": [
         {
-            "name": "Davey Shafik",
-            "email": "dshafik@akamai.com"
+            "name": "Reo Yamakawa",
+            "email": "yamakawa-r@tose.co.jp"
         }
     ],
     "require": {
